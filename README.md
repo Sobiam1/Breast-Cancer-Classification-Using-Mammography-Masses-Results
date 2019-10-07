@@ -62,6 +62,11 @@ Next is Logistic Regression with AUC of 0.847 +/- 0.01 and SVM (Linear Kernel) w
 
 ![ROC_Mammography](https://user-images.githubusercontent.com/54248182/66287972-a502ed80-e8e8-11e9-8d43-26b1a5b82e62.png)
 
+
+The Decision Tree classifier:
+
+![Decision_Tree](https://user-images.githubusercontent.com/54248182/66288282-9ec14100-e8e9-11e9-8d7e-a01846c20cc9.png)
+
 ## Acknowledgments
 
 For further research on the strategy followed in this problem, you can check https://scikit-learn.org/stable/modules/cross_validation.html
