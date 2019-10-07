@@ -53,3 +53,15 @@ Attribute description:
 
 The file mammographic_masses.data.txt contains the attributes data.
 The file mammographic_masses.names.txt gives the description of the attributes.
+
+## Results
+
+By comparing all classifiers algorithms, I got the best accuracy with the deep learning algoritm: Artificial Neural Network.
+ANN gives the best performance for this particular problem with AUC of 0.87 +/- 0.01.
+Next is Logistic Regression with AUC of 0.847 +/- 0.01 and SVM (Linear Kernel) with AUC of 0.842 +/- 0.01
+
+![ROC_Mammography](https://user-images.githubusercontent.com/54248182/66287972-a502ed80-e8e8-11e9-8d43-26b1a5b82e62.png)
+
+## Acknowledgments
+
+For further research on the strategy followed in this problem, you can check https://scikit-learn.org/stable/modules/cross_validation.html
